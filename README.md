@@ -1,6 +1,6 @@
 ## Preview PostMan 
 <h2>Register</h2>
-<img src="![image](https://github.com/debasisnishank/OtpVerificationViaMail/assets/95074176/007b7474-d872-4dff-8d26-27515d362758)">
+<img src="https://github.com/debasisnishank/OtpVerificationViaMail/assets/95074176/007b7474-d872-4dff-8d26-27515d362758">
 
 <hr/>
 <h2>Verify</h2>
